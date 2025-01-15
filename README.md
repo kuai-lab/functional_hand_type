@@ -3,7 +3,7 @@
  
 Original implementation of the paper "Functional Hand Type Prior for 3D Hand Pose Estimation and Action Recognition from Egocentric View Monocular Videos"
 
-[[Paper]]()[[Video]]()
+[[Paper]](https://papers.bmvc2023.org/0193.pdf)
 
 <img  src="figures/new_handtype_taxonomy.png"  alt="Overview Image"  style="zoom:50%;" />
  
