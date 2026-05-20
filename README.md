@@ -95,3 +95,14 @@ to plot the curves the 3D PCK(-RA) at different error thresholds on FPHA and H2O
 CUDA_VISIBLE_DEVICES=0 python eval.py --batch_size <batch_size> --val_split <val_split> --train_dataset <dataset> --val_dataset <dataset> --dataset_folder <path_to_dataset_root> --resume_path <path_to_pth> --is_demo
 
 ```
+
+## Citation
+```tex
+@inproceedings{roh2023functional,
+  title={Functional Hand Type Prior for 3D Hand Pose Estimation and Action Recognition from Egocentric View Monocular Videos.},
+  author={Roh, Wonseok and Lee, Seung Hyun and Ryoo, Won Jeong and Lee, Jakyung and Oh, Gyeongrok and Hwang, Sooyeon and Chi, Hyung-Gun and Kim, Sangpil},
+  booktitle={BMVC},
+  pages={193},
+  year={2023}
+}
+```
